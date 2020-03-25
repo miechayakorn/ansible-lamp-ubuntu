@@ -1,0 +1,11 @@
+---
+#MySQL Settings
+mysql_root_password: "mysql_root_password"
+mysql_db: "wordpress"
+mysql_user: "user"
+mysql_password: "password"
+
+#HTTP Settings
+http_host: "domain_name"
+http_conf: "domain_name.conf"
+http_port: "80"
