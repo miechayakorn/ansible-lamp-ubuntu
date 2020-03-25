@@ -1,2 +1,2 @@
 [server]
-119.59.119.3 ansible_user=mie ansible_password=mieansiblemtb
+119.59.119.3 ansible_user=mie
